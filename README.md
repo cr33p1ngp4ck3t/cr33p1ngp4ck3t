@@ -3,7 +3,7 @@
 
 -  I Create Modern Websites Using Next.Js
 
--  I am currently learning "Cloud Computing Generative AI engineering".
+-  I am currently learning **Cloud Computing Generative AI engineering**.
 
 -  Other than tech, I'm interested in **chess**
 
