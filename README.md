@@ -21,12 +21,16 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 
 <h4 align="left">Libraries and Frameworks:</h4>
-<p>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextJs" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
-</p>
+</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cr33p1ngp4ck3t&theme=dracula&show_icons=true&hide_border=true&count_private=false" width="400" height="150">
+<div align="center"> 
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=cr33p1ngp4ck3t&theme=monokai&hide_border=true" width="400" height="150">
+  <br/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr33p1ngp4ck3t&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="400" height="150">
+  <br/>
 </div>
