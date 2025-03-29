@@ -32,6 +32,6 @@
   <img src="https://nirzak-streak-stats.vercel.app?user=cr33p1ngp4ck3t&theme=monokai&hide_border=true">
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr33p1ngp4ck3t&theme=dracula&show_icons=true&hide_border=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr33p1ngp4ck3t&theme=monokai&show_icons=true&hide_border=true">
   <br/>
 </div>
