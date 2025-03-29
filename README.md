@@ -27,10 +27,11 @@
 </div>
 
 <div align="center"> 
+  <h4>Github Stats </h4>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app?user=cr33p1ngp4ck3t&theme=monokai&hide_border=true" width="400" height="150">
+  <img src="https://nirzak-streak-stats.vercel.app?user=cr33p1ngp4ck3t&theme=monokai&hide_border=true">
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr33p1ngp4ck3t&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="400" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr33p1ngp4ck3t&theme=dracula&show_icons=true&hide_border=true&layout=compact">
   <br/>
 </div>
