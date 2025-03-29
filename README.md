@@ -27,7 +27,7 @@
 </div>
 
 <div align="center"> 
-  <h4>Github Stats </h4>
+  <h2>Github Stats</h2>
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app?user=cr33p1ngp4ck3t&theme=monokai&hide_border=true">
   <br/>
